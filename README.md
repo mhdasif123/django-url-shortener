@@ -46,3 +46,29 @@ tzdata==2025.2
    ```bash
    git clone https://github.com/your-username/urlshortener.git
    cd urlshortener
+
+2. **Create a virtual environment**
+     ```bash
+      python -m venv venv
+      source venv/bin/activate    # Linux/Mac
+      venv\Scripts\activate       # Windows
+
+3. **Install dependencies**
+     ```bash
+      pip install -r requirements.txt
+     
+4. **Apply migrations**
+     ```bash
+      python manage.py migrate
+
+5. **Run development server**
+     ```bash
+      python manage.py runserver
+
+5. **Open in browser**
+     ```bash
+      http://127.0.0.1:8000/
+
+---
+
+## 📸 Screenshots
