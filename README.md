@@ -24,19 +24,19 @@ This application allows you to shorten long URLs into simple, easy-to-share link
 
 ## 📦 Requirements
 
-The project dependencies are listed in `requirements.txt`:
-asgiref==3.8.1
-backports.zoneinfo==0.2.1
-colorama==0.4.6
-Django==4.2.23
-gunicorn==23.0.0
-packaging==25.0
-pillow==10.4.0
-pypng==0.20220715.0
-qrcode==7.4.2
-sqlparse==0.5.3
-typing_extensions==4.13.2
-tzdata==2025.2
+The project dependencies are listed in `requirements.txt`: <br>
+asgiref==3.8.1 <br>
+backports.zoneinfo==0.2.1 <br>
+colorama==0.4.6 <br>
+Django==4.2.23 <br>
+gunicorn==23.0.0 <br>
+packaging==25.0 <br>
+pillow==10.4.0 <br>
+pypng==0.20220715.0 <br>
+qrcode==7.4.2 <br>
+sqlparse==0.5.3 <br>
+typing_extensions==4.13.2 <br>
+tzdata==2025.2 <br>
 
 ---
 
