@@ -76,5 +76,5 @@ tzdata==2025.2 <br>
 Home Page  
   ![Home Page](https://github.com/mhdasif123/django-url-shortener/blob/main/screenshort/1.png?raw=true)
 
-- Short URL  
+Short URL  
   ![QR Code](https://github.com/mhdasif123/django-url-shortener/blob/main/screenshort/2.png?raw=true)
