@@ -1,7 +1,7 @@
 # URL Shortener 🔗
 
 A simple **URL Shortener** built with **Python Django**.  
-This application allows you to shorten long URLs into simple, easy-to-share links and also provides QR codes for quick access.  
+This application allows you to shorten long URLs into simple, easy-to-share links for quick access.  
 
 ---
 
