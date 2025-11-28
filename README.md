@@ -8,7 +8,6 @@ This application allows you to shorten long URLs into simple, easy-to-share link
 ## 🚀 Features
 - Shorten long URLs into unique short codes.  
 - Redirect users from the short code to the original URL.  
-- Generate **QR codes** for shortened links.  
 - User-friendly interface with Django templates.  
 - Powered by Django, Gunicorn, and SQLite/PostgreSQL.  
 
